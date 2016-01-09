@@ -33,3 +33,6 @@ links by using the GitHub Repository Search API.
 
 4) Could use pure javascript to intead of jquery to make it run faster.
 
+5) Finally the reason why I used PHP is to deploy to heroku, since there is no option of uploading only javascript
+application unless it is a NodeJs Application.
+
