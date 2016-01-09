@@ -8,6 +8,8 @@ Live Application URL: https://limitless-bastion-4754.herokuapp.com/
 
 Repository Link Format: http://github.com/{user}/{repository}
 
+Ex: https://github.com/Shippable/support
+
 How Does It Work?
 ------------------------------
 
