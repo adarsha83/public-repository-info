@@ -1,2 +1,2 @@
 # public-repository-info
-Get Information about any public repository
+Get Information about any public github  repository
